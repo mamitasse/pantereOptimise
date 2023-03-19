@@ -74,7 +74,6 @@ a:hover {
 
 .bg-repeat {
     background: repeat;
-
 }
 
 .bg-t-edge {
@@ -1040,4 +1039,21 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+.bloc-bg-texture{
+    background-color: #884545;
+    font-weight: 800;
+}
+.btn-atomic-tangerine{
+    background-color: #884545;
+    font-weight: 800; 
+}
+.col-sm-6{
+    font-weight: 600;
+}
+.bgc-atomic-tangerine{
+    background-color: #884545;
+}
+.col-sm-6 .text-center{
+    color: white;
 }
