@@ -1079,3 +1079,11 @@ h4 {
 .portfolio-thumb {
   margin: 0px;
 }
+ .bloc-lg .mg-md{
+  text-align:center;
+  white-space: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
