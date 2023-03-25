@@ -1087,3 +1087,12 @@ h4 {
   justify-content: space-between;
 
 }
+p{
+  font-size:15px !important;
+}
+h3{
+  font-size: 18px !important;
+}
+h2{
+  font-size: 20px !important;
+}
