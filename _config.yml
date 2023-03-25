@@ -1,3 +1,0 @@
-compress:
-  brotli: true
-  gzip: true
